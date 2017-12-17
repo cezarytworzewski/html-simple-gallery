@@ -1,0 +1,35 @@
+body 
+{
+    height: 70%;
+	
+}
+
+#container
+{
+    width: 90%;
+    height: auto;
+    background-color: teal;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#title-page{
+    font-size: 40px;
+    text-align: center;
+    padding: 20px;
+    text-shadow: 20px;
+}
+
+#gallery
+{
+    
+    width: 100%;
+    height: 100%;
+    background-color: coral;
+    margin-top: 30px;
+    float: left;
+    cursor: pointer;
+}
+
